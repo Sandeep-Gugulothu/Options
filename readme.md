@@ -80,5 +80,5 @@ This project builds an options trading strategy leveraging advanced statistical 
 
 ---
 
-![Image Description](certificate/ed53afd8-ce77-4b08-8200-929d441a4f7d.pdf)
+![Image Description](certificate/certificate.png)
 
